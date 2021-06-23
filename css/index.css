@@ -1,0 +1,48 @@
+#rojo{
+    background-color: red;
+    height: 5%;
+    width:20%;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+#naranja{
+    background-color: orange;
+    height: 5%;
+    width:20%;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
+#amarillo{
+    background-color: yellow;
+    height: 5%;
+    width:20%;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+#verde{
+    background-color: green;
+    height: 6%;
+    width:20%;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+}
+#azul{
+    background-color: blue;
+    height: 5%;
+    width:20%;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+#morado{
+    background-color: purple;
+    height: 5%;
+    width:20%;
+    position: absolute;
+    top: 55%;
+    left: 40%;
+}
